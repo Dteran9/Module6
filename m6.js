@@ -11,3 +11,17 @@ console.log(timeSchedule[0]);
 console.log(timeSchedule[1]);
 console.log(timeSchedule[2]);
 console.log(timeSchedule[3]);
+
+const user = {
+    name: "Deanndra",
+    age: 20,
+    status: "In a Relationship",
+    position: "Stores Associate",
+    pay: 11.00
+}
+
+console.log(user.name);
+console.log(user.age);
+console.log(user.status);
+console.log(user.position);
+console.log(user.pay);
